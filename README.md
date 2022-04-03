@@ -6,10 +6,8 @@ API Rest desarrollada en Java usando Framework Spring boot.
 * [postgresql-14.0-1](https://www.postgresql.org/download/)
 
 ## Instalación
-1. Clonar el repositorio o descargar desde https://github.com/jefersonKel/InventarioVacunacion
-  ```sh
-  git clone git@github.com:jefersonKel/InventarioVacunacion.git
-  ```
+1. Clonar el repositorio o descargar desde git
+ 
 2. Configurar conexión de base de datos en el archivo .properties: inventariovacunacion\src\main\resources\application.properties
   ```
   spring.datasource.url=jdbc:postgresql://localhost:5432/NombreBaseDatos
