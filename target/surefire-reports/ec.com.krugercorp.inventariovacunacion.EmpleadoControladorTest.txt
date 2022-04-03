@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ec.com.krugercorp.inventariovacunacion.EmpleadoControladorTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.489 s - in ec.com.krugercorp.inventariovacunacion.EmpleadoControladorTest
